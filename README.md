@@ -5,5 +5,7 @@ Music-player,
 New year countdown,
 Responsive Web UI,
 Seat Map for Theater,
-Studentgrade
+Studentgrade,
+Todolist,
+Weather
 
