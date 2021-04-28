@@ -1,3 +1,5 @@
 # JavaScript-Projects
 JavaScript-Clock,
-Music-player
+Music-player,
+New year countdown,
+Responsive Web UI
