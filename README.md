@@ -1,2 +1,2 @@
 # JavaScript-Projects
-JavaScript Projects
+JavaScript-Clock
